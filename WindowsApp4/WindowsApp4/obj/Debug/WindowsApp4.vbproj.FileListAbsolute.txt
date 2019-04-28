@@ -1,0 +1,12 @@
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Form1.resources
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\Jarego\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
